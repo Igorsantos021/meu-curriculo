@@ -10,4 +10,9 @@
 ## Cursos livres
 - Excel, Senac Americana [24h]
 - Excel Avançado, Senac Americana [39h]
+- Administração Senai [200h]
+
+## Serviços 
+- Meneghel Industria (Revisor de tecido) [2021 - 2022]
+- Meneghel Industria (Aux de Faturamento) [2022 - Até agora]
  
